@@ -1,0 +1,13 @@
+.img_text{
+    color: #fff !important;
+    text-align: center !important;
+    font-size: 32px !important;
+    font-weight: 900 !important;
+    padding-top: 15%;
+}
+.pagination{
+    display: flex !important;
+}
+.mdl-navigation__link {
+	text-decoration:none !important;
+}
